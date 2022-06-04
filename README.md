@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aliardaf
 - 👀 I’m interested in web development.
-- 🌱 I’m currently studying on FrontEnd Web Development
+- 🌱 I’m currently studying on FrontEnd Web Development.
 - 📫 You can reach me via e-mailing to ardafincan@icloud.com
 
 <!---
