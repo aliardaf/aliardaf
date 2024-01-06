@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @aliardaf
-- 🌱 I’m currently studying on FrontEnd Web Development.
 - 📫 You can reach me via e-mailing to ardafincan@icloud.com
 
 <!---
